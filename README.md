@@ -1,1 +1,0 @@
-# Trabalho-Computa-o-Gr-fica-e-Processamento-Digital-de-Imagens
