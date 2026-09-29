@@ -1,0 +1,23 @@
+# Pasta de compilação do CMake
+build/
+bin/
+out/
+
+# Configurações do VS Code / IDEs
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+
+# Binários e executáveis compilados
+*.exe
+*.o
+*.obj
+*.dll
+*.a
+
+# Arquivos gerados pelo CMake
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+*.ninja
