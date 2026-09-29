@@ -1,4 +1,5 @@
 # Pasta de compilação do CMake
+desktop.ini
 build/
 bin/
 out/
